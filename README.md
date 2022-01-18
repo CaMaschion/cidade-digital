@@ -2,6 +2,7 @@
 Trabalho de conclusão de curso - PUC 
 
 
+![simplescreenrecorder-2022-01-18_11 51 03](https://user-images.githubusercontent.com/48969727/149961734-7d8af27f-6a24-4de6-875f-42f3d3405a10.gif)
 
 Figma:
 
