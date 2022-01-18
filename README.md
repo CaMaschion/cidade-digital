@@ -13,3 +13,7 @@ Ponto de função:
 
 [Planilha-de-APF-tcc.ods](https://github.com/CaMaschion/cidade-digital/files/7890243/Planilha-de-APF-tcc.ods)
 
+Link Google Drive - Protótipo navegável em formato AVI:
+
+https://drive.google.com/drive/folders/1GsF8o7WLA0DeJ8LX58TfU3ErM19LgssN?usp=sharing
+
