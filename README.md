@@ -11,7 +11,8 @@ https://www.figma.com/proto/ljRWPRT6iEhj8qLmugxpxM/Cidade-Digital?node-id=2%3A2&
 
 Planilha de Ponto de função:
 
-[Planilha-de-APF-tcc.ods](https://github.com/CaMaschion/cidade-digital/files/7890243/Planilha-de-APF-tcc.ods)
+[Planilha-de-APF-tcc.xlsx](https://github.com/CaMaschion/cidade-digital/files/7891050/Planilha-de-APF-tcc.xlsx)
+
 
 Link Google Drive - Protótipo navegável em formato AVI:
 
@@ -19,4 +20,4 @@ https://drive.google.com/drive/folders/1GsF8o7WLA0DeJ8LX58TfU3ErM19LgssN?usp=sha
 
 TCC:
 
-[CamilaMaschion - CidadeDigital - TCC.odt](https://github.com/CaMaschion/cidade-digital/files/7890398/CamilaMaschion.-.CidadeDigital.-.TCC.odt)
+[CamilaMaschion - CidadeDigital - TCC.docx](https://github.com/CaMaschion/cidade-digital/files/7891051/CamilaMaschion.-.CidadeDigital.-.TCC.docx)
